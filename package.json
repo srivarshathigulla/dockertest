@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "devops",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srivarshathigulla/index.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srivarshathigulla/index/issues"
+  },
+  "homepage": "https://github.com/srivarshathigulla/index#readme",
+  "description": ""
+}
